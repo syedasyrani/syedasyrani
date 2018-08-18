@@ -1,0 +1,10 @@
+.bg-primary { background: $color-primary; }
+.bg-secondary { background: $color-secondary; }
+.bg-gradient { background-image: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%); }
+.font-display { font-family: $font-display; }
+.font-text { font-family: $font-text; }
+.text-white { color: white; }
+.add-shadow {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+	0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

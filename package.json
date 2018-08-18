@@ -1,0 +1,11 @@
+{
+  "name": "syedasyrani",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "https://github.com/syedasyrani/syedasyrani",
+  "author": "SYED ASYRANI <syedasyrani@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.3"
+  }
+}
